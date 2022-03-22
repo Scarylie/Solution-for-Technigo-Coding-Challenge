@@ -1,0 +1,27 @@
+/* Colors */
+body {
+  background-color: #ffffff;
+  font-family: 'Open Sans', sans-serif; 
+}
+h1 {
+  color: #8e77a3;
+  font-weight: 700;
+}
+h2 {
+  color: #907bbe;
+  font-weight: 400;
+}
+h3 {
+  color: #513f77;
+  margin-bottom: 5px;
+}
+.link {
+  color:rgb(0, 0, 0);
+  text-decoration: none;
+}
+/* Remove space over links */
+p {
+  margin: 0;
+}
+
+
